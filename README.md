@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+# ![snake gif](https://github.com/your-user-name/Henriqueoverpower/blob/output/github-contribution-grid-snake.gif)
+
+
 <!--
 **Henriqueoverpower/Henriqueoverpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
