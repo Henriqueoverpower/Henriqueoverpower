@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 # ![snake gif](https://github.com/your-user-name/Henriqueoverpower/blob/output/github-contribution-grid-snake.gif)
 
 
